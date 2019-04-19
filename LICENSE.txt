@@ -1,0 +1,83 @@
+Software License Agreement
+
+This Software License Agreement is made on 9th November 2018 between MATHILDE GROUP, a consortium by five(5)  students of the department of Earth Science and Engineering (Applied Computational Science and Engineering option) at Imperial College London ("[PARTY A]") and EU Space Agency Consultant (Prof Gareth Collins) with its principal place of business at Imperial College London ("[PARTY B]").
+The parties agree to the terms of this agreement.
+1.0	License Grant
+[PARTY A] hereby grants to [PARTY B] an exclusive, transferable, sublicensable, irrevocable license to use this Software.
+[PARTY A] reserves for itself all other rights and interest not explicitly granted under this agreement.
+"Software" means “meteor.py” module, a software for simulating an asteroid’s properties upon entry into the earth’s atmosphere [the software described in the meteor folder, attached to this agreement].
+2.0	Training and Support Services
+[PARTY A] shall, at [PARTY A]'s expense, provide [PARTY B]'s employees/colleagues with the initial training services necessary and desirable to operate the Software, as further described in the documentation attached to this agreement, at [PARTY B]'s offices and on days and times the parties agree to in writing.
+3.0	Support
+There shall be no additional support to be provided by [PARTY A] after acceptance of this software by [PARTY B].
+4.0	Updates and Maintenance Services
+[PARTY A] shall provide [PARTY B], at [PARTY A]'s sole expense, with all updates, extensions, enhancement, modifications, and other changes [PARTY A] makes or adds to the Software and which [PARTY A] offers to other licensees of the Software.
+[PARTY A] shall provide [PARTY B], at [PARTY A]'s sole expense, with bug fixes and code corrections to correct Software malfunctions and defects, so as to bring the Software into substantial conformity with its operating specifications.
+[PARTY A] may, but will not be required to, provide these maintenance services if [PARTY B] has modified the Software or is in default.
+5.0	License Fees
+This software is provided free of charge. [PARTY B] shall pay no License Fee to [PARTY A]
+6.0	Software Usage. 
+[PARTY B] is not allowed to distribute, license, loan, or sell the Software or other content that is contained or displayed in it, modify, alter, or create any derivative works from the Software,
+reverse engineer, decompile, decode, decrypt, disassemble, or derive any source code from the Software, and not remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Software.
+[PARTY B] may install and use the Software solely for personal, non-commercial, internal business use.
+[PARTY B] may install unlimited of copies of the Software on an internal file server for purposes of downloading and installing the Software on licensed computers within the same internal network.
+[PARTY B] may install a copy of the Software on a personal or home computer, provided both copies of the Software are not used at the same time.
+[PARTY B] may make one copy of the Software solely for backup or archival purposes.
+This agreement begins on 9th November 2018 and will continue until terminated (the "Term").
+7.0	Warranty
+The [Licensed] Software is provided "as is," with all faults, defects, bugs, and errors.
+No Warranty. Unless otherwise listed in this agreement;
+[PARTY A] does not make any warranty regarding the [Licensed] Software, which includes that 
+[PARTY A] disclaims to the [fullest] extent authorized by Law all [other] warranties, whether express or implied, including any implied warranties of [title, non-infringement, quiet enjoyment, integration,] merchantability or fitness for a particular purpose.
+Intellectual Property. [PARTY A] will retain exclusive interest in and ownership of its Intellectual Property rights in and to the Software and expressly reserves all rights not expressly granted under this agreement.
+Compliance with Laws. Each party shall comply with all applicable Laws (relating to Software use in the UK and EU) and notify the other party if it becomes aware of any non-compliance in connection with this section.
+8.0	Publicity
+Neither party will use the other party's name, logo, or trademarks, or issue any press release or public announcement regarding this agreement, without the other party's written consent, unless specifically permitted under this agreement or required by Law.
+The parties shall cooperate to draft all appropriate press releases and other public announcements relating to the subject matter of this agreement and the relationship between the parties.
+The parties will not unreasonably withhold or delay their consent to press releases or public announcements.
+9.0	Termination
+Either party may terminate this agreement for any reason on 5 Business Days’ notice to the other party. Each party may terminate this agreement with immediate effect by delivering notice of the termination to the other party, if
+i.	the other party fails to perform, has made or makes any inaccuracy in, or otherwise materially breaches, any of its obligations, covenants, or representations, and
+ii.	the failure, inaccuracy, or breach continues for a period of 10 Business Days' after the injured party delivers notice to the breaching party reasonably detailing the breach.
+On the expiration or termination of this agreement the exclusive software rights granted under this agreement will terminate with immediate effect.
+Return of Property. On termination or expiration of this agreement, or on [PARTY A]'s request, [PARTY B] shall return to [PARTY A] all originals of the information, documents, equipment, files, and other property, including Intellectual Property, it received from [PARTY A] and destroy all copies of [PARTY A]'s of the information, documents, equipment, files, and other property, including Intellectual Property, it made, and on [PARTY A]'s request, certify to [PARTY A] in writing that it destroyed all these copies.
+10.0	Indemnification
+[PARTY B] (as an indemnifying party) shall indemnify [PARTY A] (as an indemnified party) against all losses and expenses in connection with any proceeding arising out of  [PARTY B]'s use of the Software, and [PARTY B]'s unauthorized customization, modification, or other alterations to the Software, including claims that its customization, modification, or other alterations infringe a third party's Intellectual Property rights.
+Each party (as an indemnifying party) shall indemnify the other (as an indemnified party) against all losses in connection with any proceeding arising out of the indemnifying party's wilful misconduct or gross negligence.
+Before bringing a claim for indemnification, the indemnified party shall notify the indemnifying party of the indemnifiable proceeding and deliver to the indemnifying party all legal pleadings and other documents reasonably necessary to indemnify or defend the indemnifiable proceeding.
+If the indemnified party fails to notify the indemnifying party of the indemnifiable proceeding, the indemnifying will be relieved of its indemnification obligations to the extent it was prejudiced by the indemnified party's failure.
+The parties' right to indemnification is the exclusive remedy available in connection with the indemnifiable proceedings described in this section.
+Neither party will be liable for breach-of-contract damages that are remote or speculative, or that the breaching party could not reasonably have foreseen on entry into this agreement.
+11.0	General Provisions
+The parties intend that this agreement, together with all attachments, schedules, exhibits, and other documents that both are referenced in this agreement and refer to this agreement, represent the final expression of the parties' intent relating to the subject matter of this agreement, contain all the terms the parties agreed to relating to the subject matter, and replace all of the parties' previous discussions, understandings, and agreements relating to the subject matter of this agreement.
+12.0	Amendment
+This agreement can be amended only by a writing signed by both parties. Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+13.0	Notices
+The parties shall give all notices and communications between the parties in writing by
+i.	personal delivery
+ii.	a nationally-recognized, next-day courier service
+iii.	first-class registered or certified mail, postage prepaid 
+iv.	electronic mail to the party's address specified in this agreement, or to the address that a party has notified to be that party's address for the purposes of this section.
+A notice given under this agreement will be effective on the other party's receipt of it, or if mailed, the earlier of the other party's receipt of it and the [fifth] business day after mailing it. 
+14.0	Governing Law and Consent to Jurisdiction and Venue
+This agreement, and any dispute arising out of the licensed Software, shall be governed by the laws of the United Kingdom.
+15.0	Waiver
+Neither party's failure or neglect to enforce any rights under this agreement will be deemed to be a waiver of that party's rights. A waiver or extension is only effective if it is in writing and signed by the party granting it. A party's failure or neglect to enforce any of its rights under this agreement will not be deemed to be a waiver of that or any other of its rights.
+If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+This agreement has been signed by both parties as listed below;
+i.	MATHILDE GROUP
+ii.	EUROPEAN UNION SPACE AGENCY CONSULTANT (Prof Gareth Collins)
+
+
+
+
+
+
+
+
+
+
+
+
+Template from https://www.contractstandards.com/public/contracts/software-license-agreement, accessed November 7, 2018.
+
